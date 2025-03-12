@@ -1,0 +1,6 @@
+node_modules/   # Installed dependencies
+.env            # Environment variables (API keys, database URLs)
+package-lock.json  # Auto-generated dependency lock file (optional)
+config/         # If it contains sensitive configs (optional)
+logs/           # Log files (if logging is enabled)
+uploads/        # If storing images/files locally
